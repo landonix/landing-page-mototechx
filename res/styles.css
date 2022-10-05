@@ -141,6 +141,7 @@ section {
 
 .mt-table--full {
   width: 100%;
+  margin-bottom: 30px;
 }
 
 .mt-td,.mt-td--centered-vertical {
